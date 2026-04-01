@@ -1,11 +1,30 @@
-<div align="center">
+# Elite Portfolio Pro
 
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+A high-end, multi-project portfolio showcasing 6 diverse web experiences. Built with React, TypeScript, Tailwind CSS, and Framer Motion.
 
-  <h1>Built with AI Studio</h2>
+## 🚀 Live Demo
+[Insert your GitHub Pages URL here]
 
-  <p>The fastest path from prompt to production with Gemini.</p>
+## 🛠️ Tech Stack
+- **Frontend**: React 19, TypeScript
+- **Styling**: Tailwind CSS 4.0
+- **Animations**: Framer Motion
+- **Icons**: Lucide React
 
-  <a href="https://aistudio.google.com/apps">Start building</a>
+## 📂 Project Showcase
+This portfolio includes 6 interactive design systems:
+1. **Nexus Enterprise**: SaaS Platform
+2. **Inventory OS**: Admin Dashboard
+3. **Void Studio**: Creative Agency
+4. **Oasis Wellness**: Health & Lifestyle
+5. **Lumina Estates**: Luxury Real Estate
+6. **Aether AI**: AI Technology
 
-</div>
+## 📦 Installation
+1. Clone the repository: `git clone <your-repo-url>`
+2. Install dependencies: `npm install`
+3. Run development server: `npm run dev`
+4. Build for production: `npm run build`
+
+## 📄 License
+MIT
